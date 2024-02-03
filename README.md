@@ -1,12 +1,11 @@
 <p style="text-align: center">
         <img src="src/assets/img.png" width="100%">
 </p>
-Meu primeiro projeto utilizando o React, fruto de um intensivão de JS.
-Primeiro passos de uma longa jornada...🚀🖥️🌟
+
 
 
 ## 💻 Projeto Cardápio digital com React!
-Criando um cardápio digital, fruto de aprendizado de um intensivão de JS !
+Criando um cardápio digital, fruto de aprendizado de um intensivão de JS ! <br>
 Primeiro passos de uma longa jornada...🚀🖥️🌟
 
 
