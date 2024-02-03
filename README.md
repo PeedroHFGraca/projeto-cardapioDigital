@@ -1,3 +1,28 @@
+<p style="text-align: center">
+        <img src="src/assets/img.png" width="100%">
+</p>
+Meu primeiro projeto utilizando o React, fruto de um intensivão de JS.
+Primeiro passos de uma longa jornada...🚀🖥️🌟
+
+
+## 💻 Projeto Cardápio digital com React!
+Criando um cardápio digital, fruto de aprendizado de um intensivão de JS !
+Primeiro passos de uma longa jornada...🚀🖥️🌟
+
+
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologoias:
+
+- HTML5 e CSS3
+- JS
+- Vite
+- React
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
